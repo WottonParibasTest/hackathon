@@ -1,0 +1,9 @@
+C:\Src\Hackathon\netreal\HackathonCSharp\HackathonSymphony\bin\Debug\netcoreapp2.1\HackathonSymphony.deps.json
+C:\Src\Hackathon\netreal\HackathonCSharp\HackathonSymphony\bin\Debug\netcoreapp2.1\HackathonSymphony.dll
+C:\Src\Hackathon\netreal\HackathonCSharp\HackathonSymphony\bin\Debug\netcoreapp2.1\HackathonSymphony.pdb
+C:\Src\Hackathon\netreal\HackathonCSharp\HackathonSymphony\obj\Debug\netcoreapp2.1\HackathonSymphony.csprojAssemblyReference.cache
+C:\Src\Hackathon\netreal\HackathonCSharp\HackathonSymphony\obj\Debug\netcoreapp2.1\HackathonSymphony.csproj.CoreCompileInputs.cache
+C:\Src\Hackathon\netreal\HackathonCSharp\HackathonSymphony\obj\Debug\netcoreapp2.1\HackathonSymphony.AssemblyInfoInputs.cache
+C:\Src\Hackathon\netreal\HackathonCSharp\HackathonSymphony\obj\Debug\netcoreapp2.1\HackathonSymphony.AssemblyInfo.cs
+C:\Src\Hackathon\netreal\HackathonCSharp\HackathonSymphony\obj\Debug\netcoreapp2.1\HackathonSymphony.dll
+C:\Src\Hackathon\netreal\HackathonCSharp\HackathonSymphony\obj\Debug\netcoreapp2.1\HackathonSymphony.pdb

@@ -1,0 +1,17 @@
+C:\Src\Hackathon\netreal\HackathonCSharp\HackathonSymphonyTest\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Src\Hackathon\netreal\HackathonCSharp\HackathonSymphonyTest\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Src\Hackathon\netreal\HackathonCSharp\HackathonSymphonyTest\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Src\Hackathon\netreal\HackathonCSharp\HackathonSymphonyTest\bin\Debug\netcoreapp2.1\HackathonSymphonyTest.deps.json
+C:\Src\Hackathon\netreal\HackathonCSharp\HackathonSymphonyTest\bin\Debug\netcoreapp2.1\HackathonSymphonyTest.runtimeconfig.json
+C:\Src\Hackathon\netreal\HackathonCSharp\HackathonSymphonyTest\bin\Debug\netcoreapp2.1\HackathonSymphonyTest.runtimeconfig.dev.json
+C:\Src\Hackathon\netreal\HackathonCSharp\HackathonSymphonyTest\bin\Debug\netcoreapp2.1\HackathonSymphonyTest.dll
+C:\Src\Hackathon\netreal\HackathonCSharp\HackathonSymphonyTest\bin\Debug\netcoreapp2.1\HackathonSymphonyTest.pdb
+C:\Src\Hackathon\netreal\HackathonCSharp\HackathonSymphonyTest\bin\Debug\netcoreapp2.1\HackathonSymphony.dll
+C:\Src\Hackathon\netreal\HackathonCSharp\HackathonSymphonyTest\bin\Debug\netcoreapp2.1\HackathonSymphony.pdb
+C:\Src\Hackathon\netreal\HackathonCSharp\HackathonSymphonyTest\obj\Debug\netcoreapp2.1\HackathonSymphonyTest.csprojAssemblyReference.cache
+C:\Src\Hackathon\netreal\HackathonCSharp\HackathonSymphonyTest\obj\Debug\netcoreapp2.1\HackathonSymphonyTest.csproj.CoreCompileInputs.cache
+C:\Src\Hackathon\netreal\HackathonCSharp\HackathonSymphonyTest\obj\Debug\netcoreapp2.1\HackathonSymphonyTest.AssemblyInfoInputs.cache
+C:\Src\Hackathon\netreal\HackathonCSharp\HackathonSymphonyTest\obj\Debug\netcoreapp2.1\HackathonSymphonyTest.AssemblyInfo.cs
+C:\Src\Hackathon\netreal\HackathonCSharp\HackathonSymphonyTest\obj\Debug\netcoreapp2.1\HackathonSymphonyTest.csproj.CopyComplete
+C:\Src\Hackathon\netreal\HackathonCSharp\HackathonSymphonyTest\obj\Debug\netcoreapp2.1\HackathonSymphonyTest.dll
+C:\Src\Hackathon\netreal\HackathonCSharp\HackathonSymphonyTest\obj\Debug\netcoreapp2.1\HackathonSymphonyTest.pdb

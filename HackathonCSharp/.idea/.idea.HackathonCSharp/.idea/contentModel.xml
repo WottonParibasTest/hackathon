@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Src\Hackathon\netreal\HackathonCSharp" t="IncludeFlat">
+      <e p="HackathonCSharp.sln" t="IncludeFlat" />
+      <e p="HackathonSymphony" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Bot.cs" t="Include" />
+        <e p="certs" t="Include">
+          <e p="bot.user80.p12" t="Include" />
+          <e p="bot.user81.p12" t="Include" />
+          <e p="bot.user82.p12" t="Include" />
+          <e p="bot.user83.p12" t="Include" />
+          <e p="HackathonNewYork Certs.zip" t="Include" />
+        </e>
+        <e p="HackathonSymphony.csproj" t="IncludeRecursive" />
+        <e p="Messenger.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.1" t="Include">
+              <e p="HackathonSymphony.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="HackathonSymphonyTest" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="HackathonSymphonyTest.csproj" t="IncludeRecursive" />
+        <e p="MessengerTest.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.1" t="Include">
+              <e p="HackathonSymphonyTest.AssemblyInfo.cs" t="Include" />
+              <e p="HackathonSymphonyTest.Program.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+    <e p="C:\Users\spwot\.nuget\packages\xunit.runner.visualstudio\2.3.1\build\netcoreapp1.0\xunit.runner.reporters.netcoreapp10.dll" t="Include" />
+    <e p="C:\Users\spwot\.nuget\packages\xunit.runner.visualstudio\2.3.1\build\netcoreapp1.0\xunit.runner.utility.netcoreapp10.dll" t="Include" />
+    <e p="C:\Users\spwot\.nuget\packages\xunit.runner.visualstudio\2.3.1\build\netcoreapp1.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll" t="Include" />
+    <e p="C:\Users\spwot\.Rider2018.1\system\resharper-host\local\Transient\ReSharperHost\v12\SolutionCaches\_HackathonCSharp.584142859.00" t="ExcludeRecursive" />
+  </component>
+</project>
